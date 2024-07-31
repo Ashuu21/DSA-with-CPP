@@ -1,12 +1,13 @@
 #include<iostream>
 using namespace std;
 
+
 class Student{
     private : int marks;
     public:
         void input()
         {
-            cout<<"Enter marks: ";
+            cout<<"Enter marks:";
             cin>>marks;
         }
         void output()
