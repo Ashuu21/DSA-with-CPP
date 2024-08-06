@@ -1,0 +1,92 @@
+DSA
+├── Primitive Data Structure
+│   ├── Integers
+│   ├── Floats
+│   ├── Booleans
+│   └── Characters
+└── Non-Primitive Data Structure
+    ├── Linear Data Structures
+    │   ├── Arrays
+    │   ├── Linked Lists
+    │   ├── Stacks
+    │   └── Queues
+    ├── Non-Linear Data Structures
+    │   ├── Trees
+    │   │   ├── Binary Trees
+    │   │   ├── Binary Search Trees (BST)
+    │   │   ├── Heaps
+    │   │   └── Tries
+    │   ├── Graphs
+    │   │   ├── Directed Graphs
+    │   │   ├── Undirected Graphs
+    │   │   └── Weighted Graphs
+    │   └── Hash-based Structures
+    │       └── Hash Tables/Hash Maps
+    ├── Algorithms
+    │   ├── Sorting Algorithms
+    │   │   ├── Bubble Sort
+    │   │   ├── Selection Sort
+    │   │   ├── Insertion Sort
+    │   │   ├── Merge Sort
+    │   │   ├── Quick Sort
+    │   │   └── Heap Sort
+    │   ├── Searching Algorithms
+    │   │   ├── Linear Search
+    │   │   └── Binary Search
+    │   ├── Graph Algorithms
+    │   │   ├── Depth-First Search (DFS)
+    │   │   ├── Breadth-First Search (BFS)
+    │   │   ├── Dijkstra’s Algorithm
+    │   │   ├── A* Search Algorithm
+    │   │   ├── Kruskal’s Algorithm
+    │   │   └── Prim’s Algorithm
+    │   ├── Dynamic Programming Algorithms
+    │   │   ├── Fibonacci Sequence
+    │   │   ├── Knapsack Problem
+    │   │   ├── Longest Common Subsequence
+    │   │   └── Matrix Chain Multiplication
+    │   ├── Greedy Algorithms
+    │   │   ├── Huffman Coding
+    │   │   ├── Kruskal’s Algorithm
+    │   │   └── Prim’s Algorithm
+    │   ├── Backtracking Algorithms
+    │   │   ├── N-Queens Problem
+    │   │   └── Sudoku Solver
+    │   └── Divide and Conquer Algorithms
+    │       ├── Merge Sort
+    │       ├── Quick Sort
+    │       └── Binary Search
+    └── Collection Framework
+        ├── Interfaces
+        │   ├── Collection
+        │   ├── List
+        │   ├── Set
+        │   ├── SortedSet
+        │   ├── NavigableSet
+        │   ├── Queue
+        │   ├── Deque
+        │   ├── Map
+        │   ├── SortedMap
+        │   └── NavigableMap
+        ├── Implementations
+        │   ├── List
+        │   │   ├── ArrayList
+        │   │   ├── LinkedList
+        │   │   └── Vector
+        │   ├── Set
+        │   │   ├── HashSet
+        │   │   ├── LinkedHashSet
+        │   │   └── TreeSet
+        │   ├── Queue
+        │   │   ├── PriorityQueue
+        │   │   └── LinkedList
+        │   ├── Map
+        │   │   ├── HashMap
+        │   │   ├── LinkedHashMap
+        │   │   └── TreeMap
+        │   └── Deque
+        │       ├── ArrayDeque
+        │       └── LinkedList
+        └── Utilities
+            ├── Collections
+            └── Arrays
