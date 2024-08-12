@@ -1,6 +1,6 @@
 DSA
 ├── Primitive Data Structure
-│   ├── Integers
+│   ├── Integers  
 │   ├── Floats
 │   ├── Booleans
 │   └── Characters
