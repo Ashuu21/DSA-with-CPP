@@ -1,4 +1,5 @@
 #include<iostream>
+// Dynamic
 using namespace std;
 class A
 {
